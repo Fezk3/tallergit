@@ -11,6 +11,5 @@ class Calculadora:
     def resta(self, a, b):
         return a - b
 
-    def division(self):
-        print("adasdasd")
-        pass
+    def division(self, a, b):
+        return a / b
