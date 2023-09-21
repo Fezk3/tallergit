@@ -4,3 +4,6 @@ class Calculadora:
 
     def sumar(self, a, b):
         return a + b
+
+    def resta(self, a, b):
+        return a - b
